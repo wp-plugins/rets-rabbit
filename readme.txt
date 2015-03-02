@@ -3,7 +3,7 @@ Contributors: patpohler
 Tags: IDX, MLS, idx feed, RETS, rets search, rets feed, listings, real estate listings, mls search, idx search
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -86,13 +86,13 @@ Now that you've finished installing the plugin, go to **Connecting to Rets Rabbi
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= What is RETS? =
 
-An answer to that question.
+RETS stands for Real Estate Transaction Service, it's a standard used by a variety of MLS systems to allow listings to be shared online. In order to use Rets Rabbit, you'll need RETS access from your local real estate board.
 
-= What about foo bar? =
+= Can I import Agent, Office, or other information from my board? =
 
-Answer to foo bar dilemma.
+At this time we're focusing on listing information, however we plan on adding agent information (if available) in the near future.
 
 == Screenshots ==
 
