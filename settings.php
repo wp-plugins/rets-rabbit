@@ -106,7 +106,7 @@ function retsrabbit_metadata() {
 
             //classes
             foreach ($type->Data as $class) {
-                $table_data[] = array("<h3><em>class</em> {$class->ClassName} : {$class->Description}</h3>&nbsp;&nbsp;&nbsp;[<a class='hide-rows' href='#' data-row='".$class->ClassName."'>show/hide</a>]");
+                $table_data[] = array("<h3><em>class</em> {$class->ClassName} : {$class->Description}</h3>&nbsp;&nbsp;&nbsp;<!--[<a class='hide-rows' href='#' data-row='".$class->ClassName."'>show/hide</a>]-->");
 
                 $fields = $class->Fields;
                 if($fields && sizeof($fields) > 0) {
