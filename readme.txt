@@ -7,19 +7,19 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add real estate listings to Wordpress. Build mobile response & SEO-friendly real estate sites that get leads, accurate listings directly from the MLS.
+Add real estate listings to Wordpress. Build mobile response & SEO-friendly real estate sites that get leads, accurate listings.
 
 == Description ==
 
-##What we do
+= What we do =
 
 Rets Rabbit is a cloud service you can use to build real estate listings to brokerage, agent, or client websites and mobile apps.
 
 Rets Rabbit takes the frustration and hassle of importing thousands of real estate listings and photos and gives you an easy to use service so you can focus on building your IDX-powered website or app. Developers using Rets Rabbit have saved 100s of hours of time building their own real estate import systems.
 
-##Who Is Rets Rabbit For?
+= Who Is Rets Rabbit For? =
 
-### Designers & Developers:
+= Designers & Developers: =
 
 With the fragmented and confusing state of real estate technology, all too often creative professionals (designers & developers) have to compromise their creative and technical vision because the board has chosen an MLS vendor with woefully outdated and inflexible tools.
 
@@ -28,7 +28,7 @@ Often this leads you to build projects that lack **SEO**, lack **responsive or m
 With Rets Rabbit you can build websites and mobile apps that **don't sacrifice your creative or technical vision**. We use a technology called RETS to connect to local real estate MLS's and import listings and photos to our servers. We then give you an array of easy to use tools depending on your type of development to incorporate the listings into your website or mobile app and give you the power to build solutions your real estate clients will love!
 
 
-### Brokers & Agents:
+= Brokers & Agents: =
 
 Nearly **40% of buyers are searching for homes on mobile devices. Google has seen a **256% growth in real estate searches** in the past four years. Yet all too often MLS searches on agent and brokerage websites are either:
 
@@ -41,7 +41,7 @@ You don't have to sacrifice the latest trends in buyer behavior because your thi
 
 With Rets Rabbit your buyers will get **accurate listings from your MLS** that will allow you to keep up with the national real estate sites.
 
-### 3 Simple Steps to Get you started with Rets Rabbit:
+= 3 Simple Steps to Get you started with Rets Rabbit: =
 
 1. **Sign-up for your 30-day free trial at [RetsRabbit.com](http://www.retsrabbit.com)**
 
@@ -61,13 +61,13 @@ With Rets Rabbit your buyers will get **accurate listings from your MLS** that w
 
 This section describes how to install the plugin and get it working.
 
-### Wordpress Plugin Directory
+= Wordpress Plugin Directory =
 
 1. From the Wordpress Dashboard 'Add Plugins' page, you can simply search for "Rets Rabbit" and click install.
 
 2. Click the **Activate** link to finish make the Rets Rabbit plugin active.
 
-### Install from the .zip file
+= Install from the .zip file =
 
 1. Download the **.zip** file
 
@@ -76,7 +76,7 @@ This section describes how to install the plugin and get it working.
 3. Click the **Activate** link to finish make the Rets Rabbit plugin active.
 
 
-### Install manually
+= Install manually =
 
 1. Download the **.zip** file.
 
